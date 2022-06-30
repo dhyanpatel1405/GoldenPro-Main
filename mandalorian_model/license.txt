@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mandalorian - Star Wars
+* source:	https://sketchfab.com/3d-models/mandalorian-star-wars-65383411ba6f4a56aac823d5d014df20
+* author:	GRIP420 (https://sketchfab.com/GRIP420)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mandalorian - Star Wars" (https://sketchfab.com/3d-models/mandalorian-star-wars-65383411ba6f4a56aac823d5d014df20) by GRIP420 (https://sketchfab.com/GRIP420) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
